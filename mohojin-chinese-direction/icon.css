@@ -1,0 +1,45 @@
+/**
+ * @file icon.css
+ */
+
+@font-face {
+    font-family: "Mohojin Chinese Direction";
+    src: url("Mohojin Chinese Direction.eot"); /* IE9 */
+    src: url("Mohojin Chinese Direction.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("Mohojin Chinese Direction.woff") format("woff"), /* chrome、firefox */
+    url("Mohojin Chinese Direction.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+    url("Mohojin Chinese Direction.svg#uxfonteditor") format("svg"); /* iOS 4.1- */
+}
+
+
+.icon {
+    font-family: "Mohojin Chinese Direction" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+.icon-:before {
+  content: "\4e1c";
+}
+
+.icon-:before {
+  content: "\5317";
+}
+
+.icon-:before {
+  content: "\5357";
+}
+
+.icon-:before {
+  content: "\897f";
+}
+
+
+
